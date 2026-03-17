@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MatheusAnimacaoCraft/MatheusAnimacaoCraft/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MatheusEduardo786/MatheusEduardo786/output/snake.svg" alt="Snake animation" />
 
 ##
